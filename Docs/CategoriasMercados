@@ -1,0 +1,8 @@
+INSERT INTO TB_CATEGORY (name) VALUES ('Produtos de Limpeza');
+INSERT INTO TB_CATEGORY (name) VALUES ('Papelaria');
+INSERT INTO TB_CATEGORY (name) VALUES ('Padaria');
+INSERT INTO TB_CATEGORY (name) VALUES ('Hortifruti');
+INSERT INTO TB_CATEGORY (name) VALUES ('Higiene Pessoal');
+INSERT INTO TB_CATEGORY (name) VALUES ('Congelados e Frios');
+INSERT INTO TB_CATEGORY (name) VALUES ('Bebidas');
+INSERT INTO TB_CATEGORY (name) VALUES ('Alimentos (Cereais e Grãos');

@@ -1,0 +1,13 @@
+INSERT INTO TB_CATEGORY (name, created_At) VALUES ('Perfumaria e Cosm�ticos', NOW());
+INSERT INTO TB_CATEGORY (name) VALUES ('M�veis para Escrit�rio');
+INSERT INTO TB_CATEGORY (name) VALUES ('Moda');
+INSERT INTO TB_CATEGORY (name) VALUES ('J�ias e Rel�gios');
+INSERT INTO TB_CATEGORY (name) VALUES ('Inform�tica');
+INSERT INTO TB_CATEGORY (name) VALUES ('Games');
+INSERT INTO TB_CATEGORY (name) VALUES ('Eletr�nicos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Eletrodom�sticos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Brinquedos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Acess�rios Automotivos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Alimentos e Bebidas');
+INSERT INTO TB_CATEGORY (name) VALUES ('Acess�rios de Moda');
+

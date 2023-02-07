@@ -1,0 +1,12 @@
+INSERT INTO TB_CATEGORY (name) VALUES ('Perfumaria e Cosméticos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Móveis para Escritório');
+INSERT INTO TB_CATEGORY (name) VALUES ('Moda');
+INSERT INTO TB_CATEGORY (name) VALUES ('Jóias e Relógios');
+INSERT INTO TB_CATEGORY (name) VALUES ('Informática');
+INSERT INTO TB_CATEGORY (name) VALUES ('Games');
+INSERT INTO TB_CATEGORY (name) VALUES ('Eletrônicos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Eletrodomésticos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Brinquedos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Acessórios Automotivos');
+INSERT INTO TB_CATEGORY (name) VALUES ('Alimentos e Bebidas');
+INSERT INTO TB_CATEGORY (name) VALUES ('Acessórios de Moda');
